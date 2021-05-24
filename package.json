@@ -37,7 +37,8 @@
     "eject": "react-scripts eject",
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
-    "postinstall": "husky install"
+    "postinstall": "husky install",
+    "lint": "eslint src"
   },
   "husky": {
     "hooks": {
