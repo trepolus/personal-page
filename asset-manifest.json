@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/personal-page/static/css/main.cdd0ea60.css",
-    "main.js": "/personal-page/static/js/main.7ab0c329.js",
-    "static/js/496.41f942d9.chunk.js": "/personal-page/static/js/496.41f942d9.chunk.js",
-    "static/media/volumetricShapes.png": "/personal-page/static/media/volumetricShapes.800f6efb2d9610bf1573.png",
-    "static/media/mindAi.png": "/personal-page/static/media/mindAi.284507f6909ff51c4d87.png",
-    "index.html": "/personal-page/index.html",
-    "main.cdd0ea60.css.map": "/personal-page/static/css/main.cdd0ea60.css.map",
-    "main.7ab0c329.js.map": "/personal-page/static/js/main.7ab0c329.js.map",
-    "496.41f942d9.chunk.js.map": "/personal-page/static/js/496.41f942d9.chunk.js.map"
+    "main.css": "/lucaskummer.com/static/css/main.cdd0ea60.css",
+    "main.js": "/lucaskummer.com/static/js/main.de7c726f.js",
+    "static/js/496.41f942d9.chunk.js": "/lucaskummer.com/static/js/496.41f942d9.chunk.js",
+    "static/media/volumetricShapes.png": "/lucaskummer.com/static/media/volumetricShapes.800f6efb2d9610bf1573.png",
+    "static/media/mindAi.png": "/lucaskummer.com/static/media/mindAi.284507f6909ff51c4d87.png",
+    "index.html": "/lucaskummer.com/index.html",
+    "main.cdd0ea60.css.map": "/lucaskummer.com/static/css/main.cdd0ea60.css.map",
+    "main.de7c726f.js.map": "/lucaskummer.com/static/js/main.de7c726f.js.map",
+    "496.41f942d9.chunk.js.map": "/lucaskummer.com/static/js/496.41f942d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cdd0ea60.css",
-    "static/js/main.7ab0c329.js"
+    "static/js/main.de7c726f.js"
   ]
 }
